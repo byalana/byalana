@@ -1,4 +1,7 @@
 ## Hi there 👋
+## aluna do alura
+## escola vaniole
+
 
 <!--
 **byalana/byalana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
